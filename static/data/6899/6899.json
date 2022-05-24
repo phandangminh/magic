@@ -1,0 +1,24 @@
+{
+  "quiz": {
+    "hideAds": false,
+    "id": 6899
+  },
+  "result": 
+  {
+      "width": 800,
+      "height": 1000,
+      "image": "bg.png",
+      "overlays": [
+		{
+				"a": 0,
+				"effect": "none",
+				"h": 969,
+				"type": "profile",
+				"w": 990,
+				"x": -66,
+				"y": 25
+		}
+		]
+      
+  }
+}

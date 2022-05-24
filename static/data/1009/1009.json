@@ -1,0 +1,42 @@
+{
+  "quiz": {
+    "hideAds": false,
+    "id": 1009
+  },
+  "result": 
+  {
+      "width": 800,
+      "height": 1000,
+      "image": "9.png",
+      "overlays": [
+  		{
+  				"a": 0,
+  				"effect": "none",
+  				"h": 220,
+  				"type": "profile",
+  				"w": 220,
+  				"x": 85,
+  				"y": 439
+  		},
+      {
+          "a": 0,
+          "effect": "none",
+          "h": 260,
+          "type": "profile",
+          "w": 260,
+          "x": 285,
+          "y": 395
+      },
+      {
+          "a": 0,
+          "effect": "none",
+          "h": 240,
+          "type": "profile",
+          "w": 240,
+          "x": 526,
+          "y": 365
+      }
+		]
+      
+  }
+}

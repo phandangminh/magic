@@ -1,0 +1,33 @@
+{
+  "quiz": {
+    "hideAds": false,
+    "id": 7189
+  },
+  "result": 
+  {
+      "width": 800,
+      "height": 1000,
+      "image": "bg.png",
+      "overlays": [
+		{
+				"a": 0,
+				"effect": "none",
+				"h": 587,
+				"type": "profile",
+				"w": 587,
+				"x": 384,
+				"y": 17
+		},
+		{
+				"a": 0,
+				"effect": "none",
+				"h": 565,
+				"type": "profile",
+				"w": 565,
+				"x": -140,
+				"y": 35
+		}
+	]
+      
+  }
+}
